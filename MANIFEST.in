@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include glumf/data *.xlsx
+recursive-include glumf/data *
+recursive-include examples *.py
+recursive-include tests *.py
